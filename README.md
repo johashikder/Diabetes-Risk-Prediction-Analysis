@@ -1,8 +1,7 @@
-## Diabetes Risk Prediction & Analysis
-<br>
+## Diabetes Risk Prediction & Analysis<br>
 Author: Joha | Language: R | Dataset: Patient Health Data
-<br>
 
+<br>
 📌 Project Overview
 <br>
 This project aims to analyze patient health data and build a predictive model for diabetes risk using Machine Learning in R. The analysis includes data preprocessing, exploratory data analysis (EDA), feature correlation analysis, and a predictive model using Random Forest. The model helps identify key factors contributing to diabetes and evaluates its predictive performance.
