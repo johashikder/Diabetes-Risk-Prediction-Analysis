@@ -3,14 +3,14 @@ Author: Joha | Language: R | Dataset: Patient Health Data
 
 <br>
 📌 Project Overview
-
 <br>
+
 This project aims to analyze patient health data and build a predictive model for diabetes risk using Machine Learning in R. The analysis includes data preprocessing, exploratory data analysis (EDA), feature correlation analysis, and a predictive model using Random Forest. The model helps identify key factors contributing to diabetes and evaluates its predictive performance.
-<br>
 
+<br>
 🛠 Methodology
-
 <br>
+
 🔹 Data Preprocessing
 Handled missing values
 Converted categorical variables into factors
@@ -24,10 +24,9 @@ Correlation Heatmap: Identified strong correlations among features
 Split data into 80% training and 20% testing
 Trained a Random Forest classifier to predict diabetes risk
 <br>
-
 Evaluated model performance using:
-
 <br>
+
 ✅ Confusion Matrix (Accuracy, Sensitivity, Specificity)
 <br>
 ✅ ROC Curve (AUC Score)
@@ -37,11 +36,11 @@ Identified top predictors of diabetes using feature importance ranking
 <br>
 🔹 Results & Interpretation
 Exported predictions & model performance metrics
-<br>
 
+<br>
 📌 Key Findings & Insights
-
 <br>
+
 ✔ Top 5 Risk Factors for Diabetes:
 <br>
 1️⃣ Age – Older individuals have a higher likelihood of diabetes
@@ -53,11 +52,11 @@ Exported predictions & model performance metrics
 4️⃣ Hypertension (Blood Pressure) – Strongly linked with diabetes
 <br>
 5️⃣ Family History of Diabetes – Increases the probability significantly
-<br>
 
+<br>
 ✔ Healthy Lifestyle Factors:
-
 <br>
+
 Physical Activity & Diet Quality reduce diabetes risk
 <br>
 Poor Sleep Quality & Smoking are associated with increased risk
@@ -65,13 +64,15 @@ Poor Sleep Quality & Smoking are associated with increased risk
 <br>
 ✔ Model Performance:
 <br>
+
 Accuracy: 92%
 <br>
 AUC Score: 0.95 (High Predictive Power)
-<br>
 
+<br>
 🔗 Connect with Me:
 <br>
+
 📧 Email: johashikder25@gmail.com
 <br>
 📌 GitHub: https://github.com/johashikder
