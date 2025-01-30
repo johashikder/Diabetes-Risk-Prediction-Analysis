@@ -11,18 +11,18 @@ This project aims to analyze patient health data and build a predictive model fo
 🛠 Methodology
 <br>
 
-🔹 Data Preprocessing
-Handled missing values
-Converted categorical variables into factors
-Scaled numerical variables
+🔹 Data Preprocessing<br>
+Handled missing values<br>
+Converted categorical variables into factors<br>
+Scaled numerical variables<br>
 <br>
-🔹 Exploratory Data Analysis (EDA)
-Histograms & Boxplots: Visualized key trends (e.g., Age vs. Diabetes, BMI distribution)
-Correlation Heatmap: Identified strong correlations among features
+🔹 Exploratory Data Analysis (EDA)<br>
+Histograms & Boxplots: Visualized key trends (e.g., Age vs. Diabetes, BMI distribution)<br>
+Correlation Heatmap: Identified strong correlations among features<br>
 <br>
-🔹 Machine Learning Model (Random Forest)
-Split data into 80% training and 20% testing
-Trained a Random Forest classifier to predict diabetes risk
+🔹 Machine Learning Model (Random Forest)<br>
+Split data into 80% training and 20% testing<br>
+Trained a Random Forest classifier to predict diabetes risk<br>
 <br>
 Evaluated model performance using:
 <br>
