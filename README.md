@@ -1,4 +1,4 @@
-🩺 ##Diabetes Risk Prediction & Analysis
+## Diabetes Risk Prediction & Analysis
 <br>
 Author: Joha | Language: R | Dataset: Patient Health Data
 <br>
