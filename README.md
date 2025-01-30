@@ -2,7 +2,7 @@
 <br>
 🩺 Diabetes Risk Prediction & Analysis
 <br>
-Author: Sams | Language: R | Dataset: Patient Health Data
+Author: Joha | Language: R | Dataset: Patient Health Data
 <br>
 
 📌 Project Overview
@@ -11,6 +11,7 @@ This project aims to analyze patient health data and build a predictive model fo
 <br>
 
 🛠 Methodology
+<br>
 🔹 Data Preprocessing
 Handled missing values
 Converted categorical variables into factors
@@ -55,15 +56,17 @@ Exported predictions & model performance metrics
 
 ✔ Healthy Lifestyle Factors:
 <br>
-
 Physical Activity & Diet Quality reduce diabetes risk
+<br>
 Poor Sleep Quality & Smoking are associated with increased risk
+<br>
 ✔ Model Performance:
 <br>
 Accuracy: 92%
 <br>
 AUC Score: 0.95 (High Predictive Power)
 <br>
+
 🔗 Connect with Me:
 <br>
 📧 Email: johashikder25@gmail.com
